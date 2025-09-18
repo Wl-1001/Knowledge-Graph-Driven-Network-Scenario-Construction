@@ -1,0 +1,757 @@
+CVE_ID,Vul_type,OS,OS_verison,Service,Service_version,Port,Execuable,CVSS
+CVE-2022-26923,LOCAL,Windows,"Windows 8.1
+Windows 10 Version 1607
+Windows 10 Version 1809
+Windows 10 Version 1909
+Windows 10 Version 2004
+Windows 10 Version 20H2
+Windows 10 Version 21H1
+Windows 10 Version 21H2
+Windows 11
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019
+Windows Server 2022",NULL,"Windows 8.1
+Windows 10 Version 1607
+Windows 10 Version 1809
+Windows 10 Version 1909
+Windows 10 Version 2004
+Windows 10 Version 20H2
+Windows 10 Version 21H1
+Windows 10 Version 21H2
+Windows 11
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019
+Windows Server 2022",NULL,Y,8.8
+CVE-2022-24521,LOCAL,Windows,"Windows 7
+Windows 8.1
+Windows 10
+Windows 11
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019
+Windows Server 2022",NULL,"Windows 7
+Windows 8.1
+Windows 10
+Windows 11
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019
+Windows Server 2022",NULL,Y,6.8
+CVE-2022-21997,LOCAL,Windows,"Windows 7
+Windows 8
+Windows 10
+Windows 11
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019
+Windows Server 2022",NULL,"Windows 7
+Windows 8
+Windows 10
+Windows 11
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019
+Windows Server 2022",NULL,Y,7.1
+CVE-2021-42287,LOCAL,Windows,"Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,"Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,Y,6.3
+CVE-2021-40449,LOCAL,Windows,"Windows 7
+Windows 8.1
+Windows 10
+Windows 11",NULL,"Windows 7
+Windows 8.1
+Windows 10
+Windows 11",NULL,Y,7.1
+CVE-2021-36934,LOCAL,Windows,"Windows 10
+Windows Server 2019",NULL,"Windows 10
+Windows Server 2019",NULL,Y,7.8
+CVE-2021-34486,LOCAL,Windows,"Windows 10
+Windows Server 2019",NULL,"Windows 10
+Windows Server 2019",NULL,Y,7.8
+CVE-2021-33739,LOCAL,Windows,Windows10,NULL,Windows10,NULL,Y,7.8
+CVE-2021-26868,LOCAL,Windows,"Windows 8
+Windows 10
+Windows 2012
+Windows 2016",NULL,"Windows 8
+Windows 10
+Windows 2012
+Windows 2016",NULL,Y,7.8
+CVE-2021-1732,LOCAL,Windows,"Windows 10
+Windows 2019",NULL,"Windows 10
+Windows 2019",NULL,Y,7.2
+CVE-2020-1472,LOCAL,Windows,"Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,"Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,Y,9.1
+CVE-2020-1337,LOCAL,Windows,"Windows 7
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,"Windows 7
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,Y,7.8
+CVE-2020-1313,LOCAL,Windows,Windows 10,NULL,Windows 10,NULL,Y,7.8
+CVE-2020-1066,LOCAL,Windows,"Windows 7
+Windows Server 2008",NULL,"Windows 7
+Windows Server 2008",NULL,Y,7.8
+CVE-2020-1054,LOCAL,Windows,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,Y,7.9
+CVE-2020-1034,LOCAL,Windows,"Windows 8
+Windows 10
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,"Windows 8
+Windows 10
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,Y,7.8
+CVE-2020-1015,LOCAL,Windows,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,Y,7.8
+CVE-2020-0787,LOCAL,Windows,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,Y,7.9
+CVE-2020-0683,LOCAL,Windows,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,Y,7.8
+CVE-2020-0668,LOCAL,Windows,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,Y,7.8
+CVE-2019-1458,LOCAL,Windows,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016",NULL,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016",NULL,Y,7.7
+CVE-2019-1388,LOCAL,Windows,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,Y,7.7
+CVE-2019-1132,LOCAL,Windows,"Windowss 7
+Windows Server 2008",NULL,"Windowss 7
+Windows Server 2008",NULL,Y,7.8
+CVE-2019-0808,LOCAL,Windows,"Windows 7
+Windows Server 2008",NULL,"Windows 7
+Windows Server 2008",NULL,Y,7.8
+CVE-2019-0803,LOCAL,Windows,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,Y,7.7
+CVE-2019-0623,LOCAL,Windows,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016",NULL,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016",NULL,Y,7.8
+CVE-2018-8639,LOCAL,Windows,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,Y,8.3
+CVE-2018-8453,LOCAL,Windows,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019",NULL,Y,8.3
+CVE-2018-8120,LOCAL,Windows,"Windows 7
+Windows Server 2008",NULL,"Windows 7
+Windows Server 2008",NULL,Y,8.3
+CVE-2017-0213,LOCAL,Windows,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016",NULL,"Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016",NULL,Y,4.7
+CVE-2017-0101,LOCAL,Windows,"Windows Vista
+Windows 7
+Windows Server 2008",NULL,"Windows Vista
+Windows 7
+Windows Server 2008",NULL,N,7.8
+CVE-2016-7255,LOCAL,Windows,"Windows Vista
+Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016",NULL,"Windows Vista
+Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016",NULL,Y,7.8
+CVE-2016-3371,LOCAL,Windows,"Windows Vista
+Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012",NULL,"Windows Vista
+Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012",NULL,N,5.5
+CVE-2016-3225,LOCAL,Windows,"Windows Vista
+Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012",NULL,"Windows Vista
+Windows 7
+Windows 8
+Windows 10
+Windows Server 2008
+Windows Server 2012",SMB,N,7.7
+CVE-2023-0386,LOCAL,Linux,5.11rc1 <= Linux Kernel <= 6.2rc5,NULL,5.11rc1 <= Linux Kernel <= 6.2rc5,NULL,Y,7.3
+CVE-2023-0179,LOCAL,Linux,5.5 <= Linux Kernel <= 6.2rc3,NULL,5.5 <= Linux Kernel <= 6.2rc3,NULL,Y,6.5
+CVE-2022-34918,LOCAL,Linux,5.8 <= Linux Kernel <= 5.18.9,NULL,5.8 <= Linux Kernel <= 5.18.9,NULL,Y,5.5
+CVE-2022-32250,LOCAL,Linux,Linux Kernel <= 5.18.1,NULL,Linux Kernel <= 5.18.1,NULL,Y,4.8
+CVE-2022-23222,LOCAL,Linux,Linux Kernel <= 5.15.14,NULL,Linux Kernel <= 5.15.14,NULL,Y,4.8
+CVE-2022-2639,LOCAL,Linux,3.13 <= Linux Kernel < 5.18,NULL,3.13 <= Linux Kernel < 5.18,NULL,Y,5.7
+CVE-2022-2588,LOCAL,Linux,Linux Kernel < 5.8,NULL,Linux Kernel < 5.8,NULL,Y,4.7
+CVE-2022-0995,LOCAL,Linux,Linux Kernel <= 5.17rc7,NULL,Linux Kernel <= 5.17rc7,NULL,Y,7.1
+CVE-2022-0847,LOCAL,Linux,"5.8 <= Linux Kernel <= 5.16.11
+5.8 <= Linux Kernel <= 5.15.25
+5.8 <= Linux Kernel <= 5.10.102",NULL,"5.8 <= Linux Kernel <= 5.16.11
+5.8 <= Linux Kernel <= 5.15.25
+5.8 <= Linux Kernel <= 5.10.102",NULL,Y,7.4
+CVE-2021-43267,LOCAL,Linux,5.10 < Linux Kernel < 5.15,NULL,5.10 < Linux Kernel < 5.15,NULL,Y,6.1
+CVE-2021-42008,LOCAL,Linux,2.1.94 <= Linux Kernel <= 5.13.3,NULL,2.1.94 <= Linux Kernel <= 5.13.3,NULL,Y,6.5
+CVE-2021-33909,LOCAL,Linux,3.16 <= Linux Kernel <= 5.13.3,NULL,3.16 <= Linux Kernel <= 5.13.3,NULL,Y,3.1
+CVE-2021-31440,LOCAL,Linux,5.7 <= Linux Kernel,NULL,5.7 <= Linux Kernel,NULL,N,3.3
+CVE-2021-22555,LOCAL,Linux,2.6.19rc1 <= Linux Kernel,NULL,2.6.19rc1 <= Linux Kernel,NULL,Y,8.4
+CVE-2021-4204,LOCAL,Linux,5.8 <= Linux Kernel <= 5.16,NULL,5.8 <= Linux Kernel <= 5.16,NULL,Y,6.5
+CVE-2021-3493,LOCAL,Linux,"Ubuntu 20.10
+Ubuntu 20.04 LTS
+Ubuntu 18.04 LTS
+Ubuntu 16.04 LTS
+Ubuntu 14.04 ESM",NULL,"Ubuntu 20.10
+Ubuntu 20.04 LTS
+Ubuntu 18.04 LTS
+Ubuntu 16.04 LTS
+Ubuntu 14.04 ESM",NULL,Y,6.7
+CVE-2021-3490,LOCAL,Linux,"Ubuntu 20.10
+Ubuntu 21.04",NULL,"Ubuntu 20.10
+Ubuntu 21.04",NULL,Y,8.4
+CVE-2021-3156,LOCAL,Linux,"1.8.2 <= Sudo <= 1.8.31p2
+1.9.0 <= Sudo <= 1.9.5p1",NULL,"1.8.2 <= Sudo <= 1.8.31p2
+1.9.0 <= Sudo <= 1.9.5p1",NULL,Y,8.8
+CVE-2020-27194,LOCAL,Linux,5.7 <= Linux Kernel <= 5.8.14,NULL,5.7 <= Linux Kernel <= 5.8.14,NULL,Y,4.6
+CVE-2020-8835,LOCAL,Linux,"5.4.7 <= Linux Kernel < 5.4.x
+5.5.0 <= Linux Kernel",NULL,"5.4.7 <= Linux Kernel < 5.4.x
+5.5.0 <= Linux Kernel",NULL,Y,2.6
+CVE-2019-15666,LOCAL,Linux,Linux Kernel < 5.0.19,NULL,Linux Kernel < 5.0.19,NULL,Y,3.1
+CVE-2019-14287,LOCAL,Linux,Sudo < 1.8.28,NULL,Sudo < 1.8.28,NULL,Y,7.7
+CVE-2019-13272,LOCAL,Linux,Linux Kernel < 5.1.17,NULL,Linux Kernel < 5.1.17,NULL,Y,8.1
+CVE-2019-7304,LOCAL,Linux,"Ubuntu 18.10
+Ubuntu 18.04 LTS
+Ubuntu 16.04 LTS
+Ubuntu 14.04 LTS",NULL,"Ubuntu 18.10
+Ubuntu 18.04 LTS
+Ubuntu 16.04 LTS
+Ubuntu 14.04 LTS",NULL,Y,3.1
+CVE-2018-1000001,LOCAL,Linux,glibc <= 2.26,NULL,glibc <= 2.26,NULL,Y,2.6
+CVE-2018-18955,LOCAL,Linux,4.15.x < Linux Kernel < 4.19.2,NULL,4.15.x < Linux Kernel < 4.19.2,NULL,Y,2.3
+CVE-2018-17182,LOCAL,Linux,Linux Kernel <= 4.18.8,NULL,Linux Kernel <= 4.18.8,NULL,Y,8.4
+CVE-2018-5333,LOCAL,Linux,Linux Kernel <= 4.14.13,NULL,Linux Kernel <= 4.14.13,NULL,Y,2.6
+CVE-2017-1000405,LOCAL,Linux,2.6.38 <= Linux Kernel <= 4.14,NULL,2.6.38 <= Linux Kernel <= 4.14,NULL,Y,2.3
+CVE-2017-1000367,LOCAL,Linux,Sudo <= 1.8.20,NULL,Sudo <= 1.8.20,NULL,Y,1.6
+CVE-2017-1000112,LOCAL,Linux,Linux Kernel <= 4.12.6,NULL,Linux Kernel <= 4.12.6,NULL,Y,2.3
+CVE-2017-16995,LOCAL,Linux,4.14 <= Linux Kernel <= 4.4,NULL,4.14 <= Linux Kernel <= 4.4,NULL,Y,7.7
+CVE-2017-16939,LOCAL,Linux,2.6.28 < Linux Kernel < 4.14,NULL,2.6.28 < Linux Kernel < 4.14,NULL,Y,2.6
+CVE-2017-11176,LOCAL,Linux,Linux Kernel < 4.11.9,NULL,Linux Kernel < 4.11.9,NULL,Y,2.6
+CVE-2017-7308,LOCAL,Linux,Linux Kernel < 4.10.6,NULL,Linux Kernel < 4.10.6,NULL,Y,2.6
+CVE-2017-6074,LOCAL,Linux,2.6.18 < Linux Kernel,NULL,2.6.18 < Linux Kernel,NULL,Y,2.6
+CVE-2017-5123,LOCAL,Linux,Linux = v4.14rc5,NULL,Linux = v4.14rc5,NULL,Y,6.4
+CVE-2016-9793,LOCAL,Linux,3.11 <= Linux Kernel <= 4.8.13,NULL,3.11 <= Linux Kernel <= 4.8.13,NULL,Y,2.6
+CVE-2016-5195,LOCAL,Linux,Linux Kernel >= 2.6.22,NULL,Linux Kernel >= 2.6.22,NULL,Y,9.8
+CVE-2016-4557,LOCAL,Linux,Linux Kernel <= 4.5.4,NULL,Linux Kernel <= 4.5.4,NULL,Y,2.6
+CVE-2016-0728,LOCAL,Linux,3.8.0 <= Linux Kernel <= 4.4.1,NULL,3.8.0 <= Linux Kernel <= 4.4.1,NULL,Y,2.6
+CVE-2022-34715,REMOTE,Windows,Windows Server 2022,NULL,NULL,TCP,Y,9.8
+CVE-2022-34713,REMOTE,Windows,"Windows Server 2008 R2
+Windows RT 8.1
+Windows 8.1
+Windows 7
+Windows Server 2016
+Windows 10
+Windows 11
+Windows Server 2022
+Windows Server 2019
+Windows Server 2012 R2",NULL,NULL,NULL,Y,7.8
+CVE-2022-26809,REMOTE,Windows,"Windows 7
+Windows 8.1
+Windows 10
+Windows 11
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019
+Windows Server 2022",NULL,NULL,TCP,Y,6.4
+CVE-2019-12422,REMOTE,NULL,NULL,Apache Shiro,Apache Shiro < 1.4.2,HTTP,Y,9.8
+CVE-2016-4437,REMOTE,NULL,NULL,Apache Shiro,Apache Shiro <= 1.2.4,HTTP,Y,9.8
+CVE-2021-31805,REMOTE,NULL,NULL,Apache Struts2,2.0.0 <= Apache Struts <= 2.5.29,HTTP/HTTPS,Y,6
+CVE-2020-17530,REMOTE,NULL,NULL,Apache Struts2,2.0.0 <= Apache struts <= 2.5.25,HTTP/HTTPS,Y,9.9
+CVE-2019-0230,REMOTE,NULL,NULL,Apache Struts2,2.0.0 <= Apache Struts <= 2.5.20,HTTP/HTTPS,Y,9.6
+CVE-2018-11776,REMOTE,NULL,NULL,Apache Struts2,"Apache Struts <= 2.3.34
+Apache Struts <= 2.5.16",HTTP/HTTPS,Y,9.3
+CVE-2018-1327,REMOTE,NULL,NULL,Apache Struts2,2.1.1 <= Apache Struts <= 2.5.14.1,HTTP/HTTPS,Y,7
+CVE-2017-12611,REMOTE,NULL,NULL,Apache Struts2,"2.0.1 <= Apache Struts <= 2.3.33
+2.5 <= Apache Struts <= 2.5.10",HTTP/HTTPS,Y,9.4
+CVE-2017-9805,REMOTE,NULL,NULL,Apache Struts2,"2.1.2 <= Apache Struts <= 2.3.33
+2.5 <= Apache Struts <= 2.5.12",HTTP/HTTPS,Y,9.8
+CVE-2017-9791,REMOTE,NULL,NULL,Apache Struts2,Apache Strtus = 2.3.x,HTTP/HTTPS,Y,9.6
+CVE-2017-5638,REMOTE,NULL,NULL,Apache Struts2,"2.3.5 <= Apache Struts <= 2.3.31
+2.5.0 <= Apache Struts <= 2.5.10",HTTP/HTTPS,Y,9.8
+CVE-2017-5638,REMOTE,NULL,NULL,Apache Struts2,"2.3.5 <= Apache Struts <= 2.3.31
+2.5 <= Apache Struts <= 2.5.10",HTTP/HTTPS,Y,9.8
+CVE-2016-6795,REMOTE,NULL,NULL,Apache Struts2,2.3.20 <= Apache Struts <= 2.3.31,HTTP/HTTPS,Y,9.1
+CVE-2016-4438,REMOTE,NULL,NULL,Apache Struts2,2.3.20 <= Apache Struts <= 2.3.28(except 2.3.20.3 and 2.3.24.3),HTTP/HTTPS,Y,9.8
+CVE-2016-3087,REMOTE,NULL,NULL,Apache Struts2,2.3.20 <= Apache Struts <= 2.3.28(except 2.3.20.3 and 2.3.24.3),HTTP/HTTPS,Y,9.4
+CVE-2016-3081,REMOTE,NULL,NULL,Apache Struts2,2.3.20 <= Apache Struts <= 2.3.28(except 2.3.20.3 and 2.3.24.3),HTTP/HTTPS,Y,9.8
+CVE-2016-0785,REMOTE,NULL,NULL,Apache Struts2,2.0.0 <= Apache Struts <= 2.3.24.1(except 2.3.20.3),HTTP/HTTPS,Y,9.2
+CVE-2013-4316,REMOTE,NULL,NULL,Apache Struts2,2.0.0 <= Apache Struts <= 2.3.15.1,HTTP/HTTPS,Y,8.2
+CVE-2013-2251,REMOTE,NULL,NULL,Apache Struts2,2.0.0 <= Apache Struts <= 2.3.15,HTTP/HTTPS,Y,8.2
+CVE-2013-2248,REMOTE,NULL,NULL,Apache Struts2,2.0.0 <= Apache Struts <= 2.3.15,HTTP/HTTPS,Y,5.7
+CVE-2013-2135,REMOTE,NULL,NULL,Apache Struts2,2.0.0 <= Apache Struts <= 2.3.14.2,HTTP/HTTPS,Y,2.9
+CVE-2013-1966,REMOTE,NULL,NULL,Apache Struts2,2.0.0 <= Apache Struts <= 2.3.14.1,HTTP/HTTPS,Y,4.1
+CVE-2013-1966,REMOTE,NULL,NULL,Apache Struts2,2.0.0 <= Apache Struts <= 2.3.14.2,HTTP/HTTPS,Y,4.1
+CVE-2013-1965,REMOTE,NULL,NULL,Apache Struts2,2.1.0 <= Apache Struts <= 2.3.13,HTTP/HTTPS,Y,9.4
+CVE-2012-0838,REMOTE,NULL,NULL,Apache Struts2,2.0.0 <= Apache Struts <= 2.2.3,HTTP/HTTPS,Y,7.8
+CVE-2012-0391,REMOTE,NULL,NULL,Apache Struts2,2.1.0 <= Apache Struts <= 2.3.1,HTTP/HTTPS,Y,8.8
+CVE-2011-3923,REMOTE,NULL,NULL,Apache Struts2,2.1.0 <= Apache Struts <= 2.3.1.1,HTTP/HTTPS,Y,9.4
+CVE-2010-1870,REMOTE,NULL,NULL,Apache Struts2,2.0.0 <= Apache Struts <= 2.1.8.1,HTTP/HTTPS,Y,4.3
+CVE-2008-6504,REMOTE,NULL,NULL,Apache Struts2,2.0.0 <= Apache Struts <= 2.0.11.2,HTTP/HTTPS,Y,4.3
+CVE-2007-4556,REMOTE,NULL,NULL,Apache Struts2,2.0.0 <= Apache Struts <= 2.0.8,HTTP/HTTPS,Y,6.9
+CVE-2021-44228,REMOTE,NULL,NULL,Apache Log4j,"2.0 beta9 <= Apache Log4j <= 2.12.1
+2.13.0 <= Apache Log4j <= 2.15.0rc1",UDP,Y,10
+CVE-2021-45046,REMOTE,NULL,NULL,Apache Log4j,"2.0beta9 <= Apache Log4j <= 2.12.1
+2.13.0 <= Apache Log4j <= 2.15.0",UDP,Y,10
+CVE-2019-17571,REMOTE,NULL,NULL,Apache Log4j,1.2.4 <= Apache log4j <= 1.2.17,UDP,Y,9.4
+CVE-2017-5645,REMOTE,NULL,NULL,Apache Log4j,"Apache Log4j = 2.0 alpha1
+Apache Log4j = 2.8.1",UDP,Y,9.4
+CVE-2020-1955,REMOTE,NULL,NULL,Apache CouchDB,Apache CouchDB = 3.0.0,HTTP/HTTPS,N,6.8
+CVE-2018-11769,REMOTE,NULL,NULL,Apache CouchDB,Apache CouchDB < 2.2.0,HTTP/HTTPS,N,1.7
+CVE-2017-12636,REMOTE,NULL,NULL,Apache CouchDB,"Apache CouchDB < 1.7.0
+Apache CouchDB < 2.1.1",HTTP/HTTPS,Y,6.9
+CVE-2017-12635,REMOTE,NULL,NULL,Apache CouchDB,"Apache CouchDB < 1.7.0
+Apache CouchDB < 2.1.1",HTTP/HTTPS,Y,6.9
+CVE-2016-8742,LOCAL,Windows,\,Apache CouchDB,Apache CouchDB = 2.0.0,HTTP/HTTPS,Y,7.8
+CVE-2019-0232,REMOTE,NULL,NULL,Apache Tomcat,"9.0.0.M1 <= Apache Tomcat <= 9.0.17
+8.5.0 <= Apache Tomcat <= 8.5.39
+7.0.0 <= Apache Tomcat <= 7.0.93",HTTP,Y,9.4
+CVE-2017-12615,REMOTE,NULL,NULL,Apache Tomcat,7.0.0 <= Apache Tomcat <= 7.0.81,HTTP,Y,9.8
+CVE-2016-1240,LOCAL,NULL,NULL,Apache Tomcat,"8.0.0 <= Apache Tomcat <= 8.0.362
+7.0.0 <= Apache Tomcat <= 7.0.702
+6.0.0 <= Apache Tomcat <= 6.0.45",HTTP,Y,8.6
+CVE-2020-1938,REMOTE,NULL,NULL,Apache Tomcat,"Apache Tomcat = 6
+Apache Tomcat < 7.0.100
+Apache Tomcat < 8.5.51
+Apache Tomcat < 9.0.31",AJP,Y,9.4
+CVE-2021-23017,REMOTE,NULL,NULL,Nginx,0.6.18 <= Nginx <= 1.20.0,HTTP,Y,5.6
+CVE-2022-41082,REMOTE,NULL,NULL,Microsoft Exchange,"Microsoft Exchange Server 2013 Cumulative Update 23
+Microsoft Exchange Server 2016 Cumulative Update 22
+Microsoft Exchange Server 2016 Cumulative Update 23
+Microsoft Exchange Server 2019 Cumulative Update 11
+Microsoft Exchange Server 2019 Cumulative Update 12",HTTP/HTTPS,Y,8.8
+CVE-2022-22965,REMOTE,NULL,NULL,Spring,"5.3.0 <= Spring Framework <= 5.3.17
+5.2.0 <= Spring Framework <= 5.2.19",HTTP,Y,10
+CVE-2022-22963,REMOTE,NULL,NULL,Spring,3.0.0 <= Spring Cloud Function <= 3.2.2,HTTP,Y,9.9
+CVE-2022-22947,REMOTE,NULL,NULL,Spring,"Spring Cloud Gateway < 3.1.1
+Spring Cloud Gateway < 3.0.7",HTTP,Y,9.9
+CVE-2021-43503,REMOTE,NULL,NULL,Laravel,Laravel = 5.8.38,HTTP,N,6.7
+CVE-2021-3129,REMOTE,NULL,NULL,Laravel,Laravel < 8.4.3,HTTP,Y,9.6
+CVE-2018-15133,REMOTE,NULL,NULL,Laravel,"5.5.x <= Laravel <= 5.5.40
+5.6.x <= Laravel <= 5.6.29",HTTP,Y,9.4
+CVE-2019-3396,REMOTE,NULL,NULL,Atlassian Confluence,"6.6.x < Confluence < 6.6.12
+6.12.x < Confluence < 6.12.3
+6.13.x < Confluence < 6.13.13
+6.14.x < Confluence < 6.14.2",HTTP/HTTPS,Y,9.4
+CVE-2022-2992,REMOTE,NULL,NULL,GitLab,"11.10 <= Gitlab < 15.1.6
+15.2 <= Gitlab < 15.2.4
+15.3 <= Gitlab < 15.3.2",HTTP/HTTPS/SSH,N,8
+CVE-2022-2884,REMOTE,NULL,NULL,GitLab,"11.3.4 <= GitLab < 15.1.5
+15.2 <= GitLab < 15.2.3
+15.3 <= GitLab < 15.3.1",HTTP/HTTPS/SSH,N,8
+CVE-2022-2185,REMOTE,NULL,NULL,GitLab,"14.0 < GitLab < 14.0.5
+15.0 < GitLab < 15.0.4
+15.1 < GitLab < 15.1.1",HTTP/HTTPS/SSH,Y,7.5
+CVE-2021-22205,REMOTE,NULL,NULL,GitLab,"Gitlab = 11.913.8.8
+Gitlab = 13.913.9.6
+Gitlab = 13.1013.10.3",HTTP/HTTPS/SSH,Y,9.8
+CVE-2018-18649,REMOTE,NULL,NULL,GitLab,Gitlab = 11.3,HTTP/HTTPS/SSH,Y,7.1
+CVE-2018-14364,REMOTE,NULL,NULL,GitLab,"GitLab = 8.9.09.5.10
+GitLab = 10.0.010.1.5
+GitLab = 10.2.010.2.5
+GitLab = 10.3.010.3.3",HTTP/HTTPS/SSH,Y,6.8
+CVE-2019-1003005,REMOTE,NULL,NULL,Jenkins,Jenkins Script Security Plugin <= 1.50,HTTP,Y,6.5
+CVE-2019-1003000,REMOTE,NULL,NULL,Jenkins,"Jenkins Declarative <= 1.3.4
+Jenkins Pipeline:Groovy <= 2.61
+Jenkins Script Security <= 1.49",HTTP,Y,9.8
+CVE-2018-1000861,REMOTE,NULL,NULL,Jenkins,"Jenkins <= 2.153
+Jenkins <= 2.138.3",HTTP,Y,9.1
+CVE-2017-1000353,REMOTE,NULL,NULL,Jenkins,"Jenkins <= 2.5
+Jenkins <= 2.46.1",HTTP,Y,9.1
+CVE-2016-9299,REMOTE,NULL,NULL,Jenkins,"Jenkins <= 1.625.1
+Jenkins <= 1.637",HTTP,Y,9.4
+CVE-2016-0788,REMOTE,NULL,NULL,Jenkins,"JenkinsCI < 1.650
+Jenkins LTS < 1.642.2",HTTP,Y,7.8
+CVE-2017-0144,REMOTE,Windows,\,Microsoft Windows SMB Server,"Windows Vista SP2
+Windows Server 2008 SP2
+Windows Server 2008 R2 SP1
+Windows 7 SP1
+Windows 8.1
+Windows Server 2012 Gold
+Windows Server 2012 Gold R2
+Windows RT 8.1
+Windows 10 Gold
+Windows 10 Gold 1511
+Windows 10 Gold 1607
+Windows Server 2016",SMB,Y,10
+CVE-2018-6789,REMOTE,NULL,NULL,Exim,Exim < 4.90,SMTP,Y,9.4
+CVE-2019-16759,REMOTE,NULL,NULL,vBulletin,5.0.0<= vBulletin <=5.5.4,HTTP/HTTPS,Y,10
+CVE-2017-11610,REMOTE,NULL,NULL,Supervisor,"supervisor < 3.0.1
+supervisor < 3.1.4
+supervisor < 3.2.4
+supervisor < 3.3.3",HTTP,Y,4.3
+CVE-2017-15944,REMOTE,NULL,NULL,Palo Alto Networks PAN-OS,"6.1.18 <= PAN-OS <= 6.1.19
+7.0.0 <= PAN-OS <= 7.8.19
+7.1.0 <= PAN-OS <= 7.1.14",HTTP,Y,9.8
+CVE-2020-14882,REMOTE,NULL,NULL,Oracle WebLogic Server,"Oracle WebLogic Server 10.3.6.0.0
+Oracle WebLogic Server 12.1.3.0.0
+Oracle WebLogic Server 12.2.1.3.0
+Oracle WebLogic Server 12.2.1.4.0
+Oracle WebLogic Server 14.1.1.0.0",HTTP,Y,9.4
+CVE-2019-15949,REMOTE,NULL,NULL,Nagios XI,Nagios XI < 5.6.6,NULL,Y,8.8
+CVE-2019-16662,REMOTE,Linux,NULL,rConfig,rConfig = 3.9.2,NULL,Y,9.4
+CVE-2019-16663,REMOTE,Linux,NULL,rConfig,rConfig =  3.9.2,NULL,Y,9.4
+CVE-2019-9041,REMOTE,NULL,NULL,ZZZCMS zzzphp,ZZZCMS zzzphp = 1.6.1,HTTP/HTTPS,Y,7.2
+CVE-2019-9193,REMOTE,NULL,NULL,PostgreSQL,9.3 <= PostgreSQL <= 11.2,TCP,Y,8.2
+CVE-2018-7600,REMOTE,NULL,NULL,Drupal,"Drupal < 7.58
+Drupal < 8.3.9
+Drupal < 8.4.6
+Drupal < 8.5.1",HTTP,Y,9.8
+CVE-2021-35464,REMOTE,NULL,NULL,ForgeRock Access Manager,"5.0.0 <= ForgeRock AM <= 6.5.3
+9.0.0 <= ForgeRock OpenAM < 14.6.3",HTTP,Y,9.5
+CVE-2021-21985,REMOTE,NULL,NULL,VMware vCenter Server,"VMware vCenter Server 7.0 < 7.0.U2b
+VMware vCenter Server 6.7 < 6.7.U3n
+VMware vCenter Server 6.5 < 6.5 U3p
+VMware Cloud Foundation 4.x  < 4.2.1
+VMware Cloud Foundation 4.x  < 3.10.2.1",HTTPS,Y,9.9
+CVE-2021-21986,REMOTE,NULL,NULL,VMware vCenter Server,"VMware vCenter Server 7.0 < 7.0.U2b
+VMware vCenter Server 6.7 < 6.7.U3n
+VMware vCenter Server 6.5 < 6.5 U3p
+VMware Cloud Foundation 4.x  < 4.2.1
+VMware Cloud Foundation 4.x  < 3.10.2.1",HTTPS,Y,9.9
+CVE-2021-29200,REMOTE,NULL,NULL,Apache OFBiz,Apache OFBiz < 17.12.07,HTTP,Y,9.8
+CVE-2021-30128,REMOTE,NULL,NULL,Apache OFBiz,Apache OFBiz < 17.12.07,HTTP,Y,8.9
+CVE-2021-26295,REMOTE,NULL,NULL,Apache OFBiz,Apache OFBiz < 17.12.07,HTTP,Y,9.2
+CVE-2021-21975,REMOTE,NULL,NULL,VMware vRealize-SSRF,"VMware vRealize Operations 8.3.0
+VMware vRealize Operations 8.2.0
+VMware vRealize Operations 8.1.1
+VMware vRealize Operations 8.1.0
+VMware vRealize Operations 7.5.0",HTTP,Y,6.7
+CVE-2021-21983,REMOTE,NULL,NULL,VMware vRealize-SSRF,VMware vRealize Operations < 8.4,HTTP,Y,8.5
+CVE-2021-22986,REMOTE,NULL,NULL,F5 BIG-IP,"16.0.0 <= F5 BIG-IP <= 16.0.1
+15.1.0 <= F5 BIG-IP <= 15.1.2
+14.1.0 <= F5 BIG-IP <= 14.1.3.1
+13.1.0 <= F5 BIG-IP <= 13.1.3.5
+12.1.0 <= F5 BIG-IP <= 12.1.5.2
+7.1.0 <= F5 BIG-IP <= 7.1.0.2
+7.0.0 <= F5 BIG-IP <= 7.0.0.1
+6.0.0 <= F5 BIG-IP <= 6.1.0",HTTP,Y,9.3
+CVE-2021-26855,REMOTE,Windows,\,Microsoft Exchange Server,"Microsoft Exchange 2013
+Microsoft Exchange 2016
+Microsoft Exchange 2019
+Microsoft Exchange 2010",HTTP,Y,10
+CVE-2021-27065,REMOTE,Windows,\,Microsoft Exchange Server,"Microsoft Exchange 2013
+Microsoft Exchange 2016
+Microsoft Exchange 2019
+Microsoft Exchange 2010",HTTP,Y,7.1
+CVE-2021-25283/25281/25282,REMOTE,NULL,NULL,Saltstack,"SaltStack < 3002.5
+SaltStack < 3001.6
+SaltStack < 3000.8",SSH ,Y,9.3
+CVE-2021-21972,REMOTE,NULL,NULL,VMware vSphere Client,"vSphere Client 6.5
+vSphere Client 6.7
+vSphere Client 7.0
+VMware Cloud Foundation(vCenter Server)3.x
+VMware Cloud Foundation(vCenter Server)4.x",HTTPS,Y,9.8
+CVE-2019-0708,REMOTE,NULL,NULL,RDP,"Windows XP SP3 x86
+Windows XP Professional x64 Edition SP2
+Windows XP Embedded SP3 x86
+Windows Server 2003 SP2 x86
+Windows Server 2003 x64 Edition SP2
+Windows Server 2003 R2 SP2
+Windows Server 2003 R2 x64 Edition SP2
+Windows Vista SP2
+Windows Vista x64 Edition SP2
+Windows 7
+Windows Server 2008 R2
+Windows Server 2008
+Windows 2003
+Windows XP",RDP,Y,9.1
+CVE-2019-12409,REMOTE,Linux,"debian_10
+debian_11
+debian_12",Apache Solr,"Apache Solr 8.1.1
+Apache Solr 8.2.0",HTTP,Y,9.4
+CVE-2021-26701,REMOTE,NULL,NULL,.NET Core,".NET Core 2.1
+.NET Core 3.1
+.NET 5.0",\,N,8.2
+CVE-2018-10933,REMOTE,NULL,NULL,libssh,"0.6.0 < libssh < 0.7.6
+0.8.0 < libssh < 0.8.4",SSH,Y,4.8
+CVE-2018-15982,REMOTE,NULL,NULL,Adobe Flash Player,"Windows/macOS/Linux Adobe Flash Player Desktop Runtime 31.0.0.153 and before version
+Windows/macOS/Linux/Chrome OS Adobe Flash Player for Google Chrome 31.0.0.153 and before version
+Windows 10/8.1 Adobe Flash Player for Microsoft Edge and Internet Explorer 11 31.0.0.153 and before version
+Windows Adobe Flash Player Installer 31.0.0.108 and before version",SSH,Y,6.9
+CVE-2008-4250,REMOTE,Windows,"Windows 2000 SP4
+Windows XP SP2
+Windows SP3
+Windows Server 2003 SP1 
+Windows Server 2003 SP2
+Windows Vista Gold 
+Windows Vista Gold SP1
+Windows Server 2008
+Windows 7 Pre-Beta",SMB,,SMB,Y,9.8
+CVE-2003-0533,REMOTE,Windows,"Microsoft Windows NT Workstation 4.0 Service Pack 6a
+Microsoft Windows NT Server 4.0 Service Pack 6a
+Microsoft Windows NT Server 4.0 Terminal Server Edition Service Pack 6
+Microsoft Windows 2000 Service Pack 2
+Microsoft Windows 2000 Service Pack 3
+Microsoft Windows 2000 Service Pack 4
+Microsoft Windows XP
+Microsoft Windows XP Service Pack 1
+Microsoft Windows XP 64-Bit Edition Service Pack 1
+Microsoft Windows XP 64-Bit Edition Version 2003
+Microsoft Windows Server 2003 
+Microsoft Windows Server 2003 64-Bit Edition
+Microsoft NetMeeting
+Microsoft Windows 98
+Microsoft Windows 98 Second Edition
+Microsoft Windows Millennium Edition",Microsoft LSASS Service,"Microsoft Windows NT Workstation 4.0 Service Pack 6a
+Microsoft Windows NT Server 4.0 Service Pack 6a
+Microsoft Windows NT Server 4.0 Terminal Server Edition Service Pack 6
+Microsoft Windows 2000 Service Pack 2
+Microsoft Windows 2000 Service Pack 3
+Microsoft Windows 2000 Service Pack 4
+Microsoft Windows XP
+Microsoft Windows XP Service Pack 1
+Microsoft Windows XP 64-Bit Edition Service Pack 1
+Microsoft Windows XP 64-Bit Edition Version 2003
+Microsoft Windows Server 2003 
+Microsoft Windows Server 2003 64-Bit Edition
+Microsoft NetMeeting
+Microsoft Windows 98
+Microsoft Windows 98 Second Edition
+Microsoft Windows Millennium Edition",SMB,N,7.5
+CVE-2020-0618,REMOTE,Windows,\,Microsoft SQL Server Reporting Services,"Microsoft SQL Server 2012
+Microsoft SQL Server 2014 Service Pack 3
+Microsoft SQL Server 2016",HTTP,Y,4.3
+CVE-2020-16875,REMOTE,Windows,\,Microsoft Exchange server,"Microsoft Exchange Server 2016 Cumulative Update 17
+Microsoft Exchange Server 2016 Cumulative Update 16
+Microsoft Exchange Server 2019 Cumulative Update 6
+Microsoft Exchange Server 2019 Cumulative Update 5",HTTP,Y,8.7
+CVE-2020-11108,REMOTE,NULL,NULL,Pi-hole,Pi-hole < 4.4,\,Y,8.8
+CVE-2013-4730,REMOTE,Windows,\,PCMan's FTP Server,PCMan's FTP Server 2.0.7,FTP,Y,10
+MS-10-046,REMOTE,Windows,\,Windows Shell,"Windows XP Service Pack 3
+Windows XP Professional x64 Edition Service Pack 2
+Windows Server 2003 Service Pack 2
+Windows Server 2003 x64 Edition Service Pack 2
+Windows Server 2003 SP2
+Windows Vista Service Pack 1
+Windows Vista Service Pack 2
+Windows Vista x64 Edition Service Pack 1
+Windows Vista x64 Edition Service Pack 2
+Windows Server 2008
+Windows Server 2008 Service Pack 2
+Windows Server 2008
+Windows Server 2008
+Windows Server 2008 Service Pack 2
+Windows 7
+Windows Server 2008 R2",\,Y,10
+CVE-2016-3088,REMOTE,NULL,NULL,Apache ActiveMQ,Apache ActiveMQ < 5.14.0,HTTP,Y,9.4
+CVE-2016-5734,REMOTE,NULL,NULL,phpMyAdmin,4.0.x <= phpMyAdmin <= 4.6.2,HTTP/HTTPS,Y,9.4
+CVE-2017-0143,REMOTE,Windows,NULL,Microsoft Windows SMB Server,"Windows Vista SP2
+Windows Server 2008 SP2
+Windows Server 2008 R2 SP1
+Windows 7 SP1
+Windows 8.1
+Windows Server 2012 Gold
+Windows Server 2012 Gold R2
+Windows RT 8.1
+Windows 10 Gold
+Windows 10 1511
+Windows 10 1607
+Windows Server 2016",SMB,Y,8.5
+CVE-2017-7269,REMOTE,Windows,NULL,Internet Information Services,Microsoft Windows Server 2003 R2,HTTP,Y,9.4
+CVE-2017-7494,REMOTE,Linux/UNIX,\,Samba,"Samba < 4.6.4
+Samba < 4.5.10
+Samba < 4.4.14",SMB,Y,8.8
+CVE-2017-8291,REMOTE,NULL,NULL,Artifex Ghostscript,Artifex Ghostscript < 2017-04-26,NULL,Y,2.9
+CVE-2017-10271,REMOTE,NULL,NULL,Oracle WebLogic Server,"Oracle WebLogic Server 10.3.6.0.0
+Oracle WebLogic Server 12.1.3.0.0
+Oracle WebLogic Server 12.2.1.1.0
+Oracle WebLogic Server 12.2.1.2.0",HTTP,Y,9.4
+CVE-2017-12149,REMOTE,NULL,NULL,Red Hat Jboss EAP ,Red Hat Jboss EAP 5.0,HTTP,Y,9.6
+CVE-2018-10587,REMOTE,NULL,NULL,Netgain Enterprise Manager,Netgain Enterprise Manager < 10.0.57,NULL,Y,7.2
+CVE-2018-2628,REMOTE,NULL,NULL,Oracle WebLogic Server,"Oracle WebLogic Server 10.3.6.0
+Oracle WebLogic Server 12.1.3.0 
+Oracle WebLogic Server 12.2.1.2 
+Oracle WebLogic Server 12.2.1.3",HTTP,Y,9.1
+CVE-2018-11776,REMOTE,NULL,NULL,Apache Struts2,"2.0.4 <= Apache Struts <= 2.3.34
+2.5.0 <= Apache Struts <=  2.5.16",HTTP/HTTPS,Y,9.3
+CVE-2018-15473,REMOTE,NULL,NULL,OpenSSH,OpenSSH < 7.7,SSH,Y,4.6
+CVE-2019-0230,REMOTE,NULL,NULL,Apache Struts2,2.0.0 <= Apache Struts <= 2.5.20,HTTP/HTTPS,Y,9.6
+CVE-2019-6339,REMOTE,NULL,NULL,Drupal core,"Drupal core < 7.6.2
+Drupal core < 8.6.6
+Drupal core < 8.5.9",HTTP,Y,7.8
+CVE-2019-16219,REMOTE,NULL,NULL,WordPress,WordPress < 5.2.3,HTTP,Y,4.6
+CVE-2019-17558,REMOTE,NULL,NULL,Apache Solr,5.0.0 < Apache Solr < 8.3.1,HTTP,Y,9.1
+CVE-2020-2555,REMOTE,NULL,NULL,Oracle Utilities Framework,"Coherence 4.2.0.2.0
+Coherence 4.2.0.3.0
+4.3.0.1.0 <=Coherence<= 4.3.0.6.0
+Coherence 4.4.0.0.0
+Coherence 4.4.0.2.0",TCP,Y,9.4
+CVE-2020-7247,REMOTE,NULL,NULL,OpenSMTPD,OpenSMTPD < 6.6.2,SMTP,Y,9.4
+CVE-2020-7961,REMOTE,NULL,NULL,Liferay Portal,Liferay Portal < 7.2.1 CE GA2,NULL,Y,9.6
+CVE-2020-9496,REMOTE,NULL,NULL,Apache OFBiz,Apache OFBiz 17.12.03,HTTP,Y,6.8
+CVE-2020-10199,REMOTE,NULL,NULL,Sonatype Nexus Repository Manager,Sonatype Nexus Repository Manager < 3.21.2,HTTP,Y,9
+CVE-2020-16846,REMOTE,NULL,NULL,SaltStack,"SaltStack 2015
+SaltStack 2016
+SaltStack 2017
+SaltStack 2018
+SaltStack 2019
+SaltStack 3000
+SaltStack 3001
+SaltStack 3002",SSH,Y,7.9
+CVE-2020-17519,REMOTE,NULL,NULL,Apache Flink,1.11.0 < Apache Flink < 1.11.2,HTTP,Y,9
+CVE-2020-35949,REMOTE,NULL,NULL,WordPress,WordPress Quiz and Survey Master plugin < 7.0.1,HTTP,Y,9.8
+CVE-2021-25646,REMOTE,NULL,NULL,Apache Druid,Apache Druid < 0.20.1,HTTP,Y,9
+CVE-2021-32682,REMOTE,NULL,NULL,elFinder,elFinder < 2.1.59,NULL,Y,7.2
+CVE-2021-42013,REMOTE,NULL,NULL,Apache HTTP Server,"Apache HTTP Server 2.4.50
+Apache HTTP Server 2.4.49",HTTP,Y,9.9
+CVE-2022-26134,REMOTE,NULL,NULL,Atlassian Confluence,"1.3.0 <= Confluence <= 7.4.17
+7.13.0 <= Confluence <= 7.13.7
+7.14.0 <= Confluence <= 7.14.3
+7.15.0 <= Confluence <= 7.15.2
+7.16.0 <= Confluence <= 7.16.4
+7.17.0 <= Confluence <= 7.17.
+7.18.0 <= Confluence <= 7.18.1",HTTP/HTTPS,Y,10
+CVE-2023-42793,REMOTE,NULL,NULL,JetBrains TeamCity,JetBrains TeamCity < 2023.05.4,HTTPS,Y,8.1
+CVE-2022-24706,REMOTE,NULL,NULL,Apache CouchDB,Apache CouchDB < 3.2.2,HTTP/HTTPS,Y,9.3
+CVE-2025-24813,REMOTE,NULL,NULL,Apache Tomcat,"9.0.0.M1 <= tomcat <= 9.0.98
+10.1.0-M1 <= tomcat <= 10.1.34
+11.0.0-M1 <= tomcat <= 11.0.2",HTTP/HTTPS,N,6.4
